@@ -98,7 +98,7 @@ function initPortfolio() {
             title: 'Trap Edit',
             category: 'VideoEditing',
             mediaType: 'video',
-            media: 'Assets/videos/Work.mp4', 
+            media:'Assets/videos/Work.mp4', 
             description: 'Satus:Private Posted:2023'
         },
         {
@@ -106,7 +106,7 @@ function initPortfolio() {
             title: 'Blur Shot',
             category: 'Photography',
             mediaType: 'image',
-            media: 'Assets/images/Photography1.jpg', 
+            media:'Assets/images/Photography1.jpg', 
             description: 'Portrait Shot'
         },
         {
@@ -114,7 +114,7 @@ function initPortfolio() {
             title: 'Character Showcase Gameplay',
             category: 'Gaming',
             mediaType: 'video',
-            media: 'Assets/videos/Gaming1.mp4', 
+            media:'Assets/videos/Gaming1.mp4', 
             description: 'Testing an Special access Unreleased Characrter'
         },
         {
@@ -122,7 +122,7 @@ function initPortfolio() {
             title: 'IHCI project',
             category: 'School',
             mediaType: 'image',
-            media: 'Assets/images/school1.png',
+            media:'Assets/images/school1.png',
             description: 'UI design for IHCI'
         },
         {
@@ -130,7 +130,7 @@ function initPortfolio() {
             title: 'Landscape Night Shot',
             category: 'Photography',
             mediaType: 'image',
-            media: 'Assets/images/Photography2.jpg',
+            media:'Assets/images/Photography2.jpg',
             description: 'Landscape Night Photography'
         },
         {
@@ -138,7 +138,7 @@ function initPortfolio() {
             title: 'Special Event Edit',
             category: 'VideoEditing',
             mediaType: 'video',
-            media: 'Assets/videos/work2.mp4', 
+            media:'Assets/videos/work2.mp4', 
             description: 'Satus:Private Posted:2024'
         },
         {
@@ -146,7 +146,7 @@ function initPortfolio() {
             title: 'Honkai Star Rail Gameplay',
             category: 'Gaming',
             mediaType: 'video',
-            media: 'Assets/videos/Gaming2.mp4',
+            media:'Assets/videos/Gaming2.mp4',
             description: 'Honkai Star Rail Character Gameplay'
         },
         {
@@ -162,7 +162,7 @@ function initPortfolio() {
             title: 'Close-up shot',
             category: 'Photography',
             mediaType: 'image',
-            media: 'Assets/images/Photography3.jpg',
+            media:'Assets/images/Photography3.jpg',
             description: 'Macro / Close-up with shallow depth of field'
         },
         {
@@ -170,7 +170,7 @@ function initPortfolio() {
             title: 'Genshin Impact Gameplay',
             category: 'Gaming',
             mediaType: 'video',
-            media: 'Assets/videos/Gaming3.mp4',
+            media:'Assets/videos/Gaming3.mp4',
             description: 'Genshin Impact Exploration'
         },
         {
@@ -178,7 +178,7 @@ function initPortfolio() {
             title: 'Trend Edit',
             category: 'VideoEditing',
             mediaType: 'video',
-            media: 'Assets/videos/Work3.mp4', 
+            media:'Assets/videos/Work3.mp4', 
             description: 'Satus:Private Posted:2023'
         },
         {
@@ -186,7 +186,7 @@ function initPortfolio() {
             title: 'Discrete Mathematics',
             category: 'School',
             mediaType: 'image',
-            media: 'Assets/images/School3.png',
+            media:'Assets/images/School3.png',
             description: 'Discrete Mathematics Project'
         }
     ];
