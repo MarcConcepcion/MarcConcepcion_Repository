@@ -91,7 +91,7 @@ function initPortfolio() {
     let currentFilter = 'all';
     let loadedItems = 6;
     
-// do not touch
+// do not touch will break 
     const portfolioData = [
         {
             id: 1,
@@ -138,7 +138,7 @@ function initPortfolio() {
             title: 'Special Event Edit',
             category: 'VideoEditing',
             mediaType: 'video',
-            media:'Assets/videos/work2.mp4', 
+            media:'Assets/videos/Work2.mp4', 
             description: 'Satus:Private Posted:2024'
         },
         {
@@ -186,7 +186,7 @@ function initPortfolio() {
             title: 'Discrete Mathematics',
             category: 'School',
             mediaType: 'image',
-            media:'Assets/images/School3.png',
+            media:'Assets/images/school3.png',
             description: 'Discrete Mathematics Project'
         }
     ];
@@ -462,8 +462,6 @@ function initPortfolio() {
     renderPortfolio();
 }
 
-
-    // Remove error styling on input
     const formInputs = contactForm.querySelectorAll('input, textarea, select');
     formInputs.forEach(input => {
         input.addEventListener('input', function() {
